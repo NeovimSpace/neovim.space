@@ -1,21 +1,17 @@
 {
-	"name": "astro-starter-template",
+	"name": "neovim-web",
 	"version": "0.0.1",
-	"description": "📄 Starter template for AstroJS.",
+	"description": "👨🏻‍💻 Neovim in the browser or a widget.",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Lightrix/astro-starter-template.git"
+		"url": "https://github.com/NeovimSpace/neovim.space.git"
 	},
-	"homepage": "https://github.com/Lightrix/astro-starter-template#readme",
+	"homepage": "https://github.com/NeovimSpace/neovim.space#readme",
 	"bugs": {
-		"url": "https://github.com/Lightrix/astro-starter-template/issues"
+		"url": "https://github.com/NeovimSpace/neovim.space/issues"
 	},
 	"license": "MIT",
-	"private": false,
-	"keywords": [
-		"astro",
-		"starter"
-	],
+	"private": true,
 	"scripts": {
 		"build": "astro check && astro build",
 		"start": "astro dev"
@@ -47,6 +43,6 @@
 		"zod": "3.21.4"
 	},
 	"publishConfig": {
-		"access": "public"
+		"access": "restricted"
 	}
 }

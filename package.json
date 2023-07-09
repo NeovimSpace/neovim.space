@@ -11,7 +11,12 @@
 		"url": "https://github.com/NeovimSpace/neovim.space/issues"
 	},
 	"license": "MIT",
+<<<<<<< HEAD
 	"private": true,
+=======
+	"private": false,
+	"keywords": ["astro", "starter"],
+>>>>>>> upstream/main
 	"scripts": {
 		"build": "astro check && astro build",
 		"start": "astro dev"

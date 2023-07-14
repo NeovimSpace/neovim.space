@@ -1,8 +1,21 @@
 {
+	"name": "neovim-web",
+	"version": "0.0.1",
+	"private": true,
+	"description": "👨🏻‍💻 Neovim in the browser or a widget.",
+	"homepage": "https://github.com/NeovimSpace/neovim.space#readme",
 	"bugs": {
 		"url": "https://github.com/NeovimSpace/neovim.space/issues"
 	},
-	"description": "👨🏻‍💻 Neovim in the browser or a widget.",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/NeovimSpace/neovim.space.git"
+	},
+	"license": "MIT",
+	"scripts": {
+		"build": "astro check && astro build",
+		"start": "astro dev"
+	},
 	"devDependencies": {
 		"@astrojs/prefetch": "0.3.0",
 		"@astrojs/sitemap": "1.3.3",
@@ -10,7 +23,7 @@
 		"@tailwindcss/aspect-ratio": "0.4.2",
 		"@tailwindcss/forms": "0.5.4",
 		"@tailwindcss/typography": "0.5.9",
-		"astro": "2.8.2",
+		"astro": "2.8.3",
 		"astro-compress": "1.1.49",
 		"astro-critters": "1.1.39",
 		"astro-rome": "0.1.18",
@@ -29,20 +42,7 @@
 		"tailwindcss": "3.3.3",
 		"zod": "3.21.4"
 	},
-	"homepage": "https://github.com/NeovimSpace/neovim.space#readme",
-	"license": "MIT",
-	"name": "neovim-web",
-	"private": true,
 	"publishConfig": {
 		"access": "restricted"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/NeovimSpace/neovim.space.git"
-	},
-	"scripts": {
-		"build": "astro check && astro build",
-		"start": "astro dev"
-	},
-	"version": "0.0.1"
+	}
 }

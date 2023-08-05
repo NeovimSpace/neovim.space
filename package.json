@@ -12,7 +12,6 @@
 		"url": "git+https://github.com/NeovimSpace/neovim.space.git"
 	},
 	"license": "MIT",
-	"type": "module",
 	"scripts": {
 		"build": "astro check && astro build",
 		"start": "astro dev"

@@ -11,7 +11,7 @@
 		"url": "git+https://github.com/NeovimSpace/neovim.space.git"
 	},
 	"scripts": {
-		"build": "astro check && astro build",
+		"prepublishOnly": "astro check && astro build",
 		"start": "astro dev"
 	},
 	"devDependencies": {

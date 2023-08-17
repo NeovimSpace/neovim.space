@@ -1,6 +1,7 @@
 {
 	"name": "neovim-web",
 	"version": "0.0.1",
+	"private": "false",
 	"description": "👨🏻‍💻 Neovim in the browser or a widget.",
 	"homepage": "https://github.com/NeovimSpace/neovim.space#readme",
 	"bugs": {
@@ -11,6 +12,12 @@
 		"url": "git+https://github.com/NeovimSpace/neovim.space.git"
 	},
 	"license": "MIT",
+	"author": {
+		"name": "Nikola Hristov",
+		"email": "nikola@nikolahristov.tech",
+		"url": "https://nikolahristov.tech"
+	},
+	"type": "module",
 	"scripts": {
 		"prepublishOnly": "astro check && astro build",
 		"start": "astro dev"
@@ -40,5 +47,8 @@
 		"tailwindcss": "3.3.3",
 		"typescript-esbuild": "0.1.13",
 		"zod": "3.22.1"
+	},
+	"publishConfig": {
+		"access": "public"
 	}
 }

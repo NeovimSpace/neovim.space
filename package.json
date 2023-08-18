@@ -1,6 +1,6 @@
 {
 	"name": "neovim-web",
-	"version": "0.0.2",
+	"version": "0.0.1",
 	"private": false,
 	"description": "👨🏻‍💻 Neovim in the browser or a widget.",
 	"homepage": "https://github.com/NeovimSpace/neovim.space#readme",

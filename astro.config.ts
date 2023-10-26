@@ -5,6 +5,9 @@ export default (await import("astro/config")).defineConfig({
 	// TODO Place your site URL here
 	// site: "",
 	compressHTML: true,
+	experimental: {
+		devOverlay: true,
+	},
 	integrations: [
 		import.meta.env.MODE === "production"
 			? (await import("astrojs-service-worker")).default()

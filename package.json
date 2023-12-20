@@ -2,8 +2,18 @@
 	"name": "@website/neovim_space",
 	"version": "0.0.1",
 	"private": false,
+<<<<<<< HEAD
 	"description": "👨🏻‍💻 Neovim in the browser or a widget.",
 	"homepage": "https://github.com/NeovimSpace/Website#readme",
+=======
+	"description": "📄 Starter template for AstroJS.",
+	"keywords": [
+		"astro",
+		"starter",
+		"skeleton"
+	],
+	"homepage": "https://github.com/Playform/AstroStarterTemplate#readme",
+>>>>>>> upstream/main
 	"bugs": {
 		"url": "https://github.com/NeovimSpace/Website/issues"
 	},

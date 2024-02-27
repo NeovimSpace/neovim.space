@@ -1,4 +1,4 @@
-# [neovim.space] 📄
+# 📄 [neovim.space]
 
 A simple skeleton with TailwindCSS, PostCSS.
 

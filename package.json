@@ -3,19 +3,19 @@
 	"version": "0.0.1",
 	"private": false,
 	"description": "👨🏻‍💻 Neovim in the browser or a widget.",
-	"homepage": "https://github.com/NeovimSpace/Website#readme",
+	"homepage": "HTTPS://GitHub.Com/NeovimSpace/Website#readme",
 	"bugs": {
-		"url": "https://github.com/NeovimSpace/Website/issues"
+		"url": "HTTPS://GitHub.Com/NeovimSpace/Website/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/NeovimSpace/Website.git"
+		"url": "git+HTTPS://GitHub.Com/NeovimSpace/Website.git"
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
 		"name": "Nikola R. Hristov",
 		"email": "Nikola@Playform.Cloud",
-		"url": "https://nikolahristov.tech"
+		"url": "HTTPS://NikolaHristov.Tech"
 	},
 	"scripts": {
 		"prepublishOnly": "astro build",

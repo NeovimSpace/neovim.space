@@ -20,4 +20,4 @@ A simple skeleton with TailwindCSS, PostCSS.
     </tr>
 </table>
 
-[neovim.space]: https://npmjs.org/neovim.space
+[neovim.space]: HTTPS://NPMJS.Org/neovim.space

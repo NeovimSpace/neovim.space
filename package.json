@@ -2,7 +2,7 @@
 	"name": "@website/neovim_space",
 	"version": "0.0.1",
 	"private": false,
-	"description": "👨🏻‍💻 Neovim in the browser or a widget.",
+	"description": "👨🏻‍💻 Neovim in the browser or a widget",
 	"homepage": "https://github.com/NeovimSpace/Website#readme",
 	"bugs": {
 		"url": "https://github.com/NeovimSpace/Website/issues"

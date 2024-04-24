@@ -2,7 +2,7 @@
 	"name": "@website/neovim_space",
 	"version": "0.0.1",
 	"private": false,
-	"description": "🗺️ Website.",
+	"description": "🗺️ Website —",
 	"homepage": "HTTPS://GitHub.Com/NeovimSpace/Website#readme",
 	"bugs": {
 		"url": "HTTPS://GitHub.Com/NeovimSpace/Website/issues"
@@ -47,7 +47,7 @@
 		"postcss-url": "10.1.3",
 		"tailwindcss": "3.4.3",
 		"typescript": "5.4.5",
-		"zod": "3.22.5"
+		"zod": "3.23.3"
 	},
 	"publishConfig": {
 		"access": "public"

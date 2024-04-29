@@ -1,3 +1,3 @@
-# 🗺️ [Website] —
+# 🗺️ [WebSite] —
 
-[Website]: https://neovim.space
+[WebSite]: https://neovim.space

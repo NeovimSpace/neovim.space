@@ -2,7 +2,7 @@
 	"name": "@website/neovim_space",
 	"version": "0.0.1",
 	"private": false,
-	"description": "🗺️ — Website —",
+	"description": "🗺️ Website —",
 	"homepage": "HTTPS://GitHub.Com/NeovimSpace/Website#readme",
 	"bugs": {
 		"url": "HTTPS://GitHub.Com/NeovimSpace/Website/issues"
@@ -13,7 +13,7 @@
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
-		"name": "Nikola R. Hristov",
+		"name": "Nikola Hristov",
 		"email": "nikola@playform.cloud",
 		"url": "https://nikolahristov.tech"
 	},

@@ -2,8 +2,19 @@
 	"name": "@website/neovim_space",
 	"version": "0.0.1",
 	"private": true,
+<<<<<<< HEAD
 	"description": "🗺️ Website —",
 	"homepage": "HTTPS://GitHub.Com/NeovimSpace/Website#readme",
+=======
+	"description": "📄 Starter —",
+	"keywords": [
+		"astro",
+		"starter",
+		"skeleton",
+		"playform"
+	],
+	"homepage": "HTTPS://GitHub.Com/PlayForm/Starter#readme",
+>>>>>>> Fork/Current
 	"bugs": {
 		"url": "HTTPS://GitHub.Com/NeovimSpace/Website/issues"
 	},

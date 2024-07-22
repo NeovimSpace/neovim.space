@@ -1,7 +1,7 @@
 {
 	"name": "@website/neovim_space",
 	"version": "0.0.1",
-	"private": false,
+	"private": true,
 	"description": "🗺️ Website —",
 	"homepage": "HTTPS://GitHub.Com/NeovimSpace/Website#readme",
 	"bugs": {
@@ -55,7 +55,7 @@
 		"zod": "*"
 	},
 	"publishConfig": {
-		"access": "public",
+		"access": "restricted",
 		"provenance": true
 	}
 }

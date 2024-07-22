@@ -128,11 +128,7 @@ For answers to common questions about this code of conduct, see the FAQ at
 [v2.1]: HTTPS://www.contributor-covenant.org/version/2/1/code_of_conduct.html
 [Mozilla CoC]: HTTPS://github.com/mozilla/diversity
 [FAQ]: HTTPS://www.contributor-covenant.org/faq
-<<<<<<< HEAD
-[translations]: https://www.contributor-covenant.org/translations
-=======
 [translations]: HTTPS://www.contributor-covenant.org/translations
->>>>>>> Fork/Current
 
 Thank you for being part of our community and helping us create a safe and
 respectful environment for everyone!

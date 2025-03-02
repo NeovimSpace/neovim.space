@@ -1,3 +1,3 @@
 # [WebSite 🗾]
 
-[WebSite 🗾]: HTTPS://neovim.space
+[WebSite 🗾]: HTTPS://neovim.space
